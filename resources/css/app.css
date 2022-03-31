@@ -1,0 +1,5 @@
+.bg-dark{
+    background-color: #121212;
+}
+
+input:focus {outline:none!important;}
